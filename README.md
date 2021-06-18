@@ -7,7 +7,12 @@ I want to open a surf shop and ice cream in Hawaii and I've found a possible inv
 
 + Based on my findings Oahu maintains consistent average temperature in the mid 70's, which is the perfect climate for relaxing at the beach with a surfboard and ice cream in hand.
 
+![June_temp_STD](https://user-images.githubusercontent.com/82338072/122622659-620a8e80-d067-11eb-87a6-202546acbfd4.png)
+
+
 + Although December will provide a few more chiller days during the month than June will, it still manages to climb up to the 70's with the occasional high in the 80's.
+
+![Dec_temp_STD](https://user-images.githubusercontent.com/82338072/122622671-6b93f680-d067-11eb-9ea1-907d81771f5d.png)
 
 + We have higher collection data for the month June than for December but I'm still confident the surf and ice cream shop will be a big success throughout the year!    
 
